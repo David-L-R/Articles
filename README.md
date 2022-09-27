@@ -26,3 +26,4 @@ Coming soon
 ### Clean Code
 
 1. [Intro](https://github.com/David-L-R/Articles/blob/main/technical/clean_code/0_intro.md)
+2. [How To Name Variables](https://github.com/David-L-R/Articles/blob/main/technical/clean_code/1-how_to_name_variables.md)
