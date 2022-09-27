@@ -3,10 +3,15 @@
 Read about career development, learning, mentoring, motivation, and software development
 
 
-<img width="899" alt="9" src="https://user-images.githubusercontent.com/31222514/192333336-015dbd10-5ed9-45a3-92ec-a94434cfcf6e.png">
+<img width="50%" alt="9" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/31222514/192333336-015dbd10-5ed9-45a3-92ec-a94434cfcf6e.png">
 
 
-## Career Development
+## Personal Development
+
+- [What Is Your Biggest Fear?](https://github.com/David-L-R/Articles/blob/main/personal_development/what_is_your_biggest_fear.md)
+- [Growth Mindset](https://github.com/David-L-R/Articles/blob/main/personal_development/growth_mindset.md)
+
+## Career
 
 
 
