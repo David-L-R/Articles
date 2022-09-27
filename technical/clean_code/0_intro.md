@@ -1,5 +1,7 @@
 # 𝐂𝐥𝐞𝐚𝐧 𝐂𝐨𝐝𝐞 - 𝐈𝐧𝐭𝐫𝐨 🧹
 
+![clean code](https://user-images.githubusercontent.com/31222514/192465106-d061f9e5-3bd6-46bf-8739-adb10459dc0c.jpeg)
+
 The only valid way to measure the code quality is by measuring the 𝐧𝐮𝐦𝐛𝐞𝐫 𝐨𝐟 "𝐖𝐓𝐅???" 𝐩𝐞𝐫 𝐦𝐢𝐧𝐮𝐭𝐞 that other people will think while reading it.
 
 The point is that good code is measured by others. Specifically, by 𝐡𝐨𝐰 𝐞𝐚𝐬𝐲 𝐢𝐭 𝐢𝐬 𝐟𝐨𝐫 𝐨𝐭𝐡𝐞𝐫𝐬 𝐭𝐨 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝 𝐢𝐭.
