@@ -25,4 +25,4 @@ Coming soon
 
 ### Clean Code
 
-Coming soon
+1. [Intro](https://github.com/David-L-R/Articles/blob/main/technical/clean_code/0_intro.md)
