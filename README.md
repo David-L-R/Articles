@@ -8,6 +8,7 @@ Read about career development, learning, mentoring, motivation, and software dev
 
 ## Personal Development
 
+- [How To Read More Books](https://github.com/David-L-R/Articles/blob/main/personal_development/how_to_read_more_books.md)
 - [What Is Your Biggest Fear?](https://github.com/David-L-R/Articles/blob/main/personal_development/what_is_your_biggest_fear.md)
 - [Growth Mindset](https://github.com/David-L-R/Articles/blob/main/personal_development/growth_mindset.md)
 
