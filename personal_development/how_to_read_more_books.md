@@ -67,7 +67,9 @@ Now. I am reading:
 - How To Talk So Little Kids Will Listen
 - Shogun
 - The Carbon Almanac
-  Just finished a couple of awesome books:
+  
+Just finished a couple of awesome books:
+
 - Never Split the Difference
 - The Danish Way of Parenting
 - Clean code
