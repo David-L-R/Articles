@@ -2,6 +2,10 @@
 
 Several tips that can improve the quality and quantity of your reading, and will improve your focus in the digital age. me, looking aside instead of reading the book
 
+<p align="center">
+<img width="50%" alt="me reading books" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/31222514/192333336-015dbd10-5ed9-45a3-92ec-a94434cfcf6e.png">
+  </p>
+
 ## More is better
 
 Often people read one book at a time. We never surf one website at a time and we often watch a few series, **so why only one book?**
