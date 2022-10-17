@@ -20,10 +20,9 @@ Read about career development, learning, mentoring, motivation, and software dev
 
 - [Tell Me About Yourself](https://github.com/David-L-R/Articles/blob/main/career/interview/tell_me_about_yourself.md)
 - [Why Do You Want To Work Here?](https://github.com/David-L-R/Articles/blob/main/career/interview/why_do_you_want_to_work_here.md)
+- More coming soon...
 
 ## Technical Articles
-
-I will discuss everything software development
 
 ### Typescript Cheats
 
@@ -33,3 +32,4 @@ Coming soon
 
 1. [Intro](https://github.com/David-L-R/Articles/blob/main/technical/clean_code/0_intro.md)
 2. [How To Name Variables](https://github.com/David-L-R/Articles/blob/main/technical/clean_code/1-how_to_name_variables.md)
+3. More Coming Soon...
