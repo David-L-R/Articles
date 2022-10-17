@@ -7,10 +7,19 @@ Read about career development, learning, mentoring, motivation, and software dev
 - [How To Read More Books](https://github.com/David-L-R/Articles/blob/main/personal_development/how_to_read_more_books.md)
 - [What Is Your Biggest Fear?](https://github.com/David-L-R/Articles/blob/main/personal_development/what_is_your_biggest_fear.md)
 - [Growth Mindset](https://github.com/David-L-R/Articles/blob/main/personal_development/growth_mindset.md)
+- [You Will Never Be "Ready"](https://github.com/David-L-R/Articles/blob/main/personal_development/you_will_never_be_ready.md)
+
+### Learning
+
+1. [Stop Watching Tutorials](https://github.com/David-L-R/Articles/blob/main/personal_development/learning/0_stop_watching_tutorials.md)
+2. [How To Escape "Tutorial Hell"](https://github.com/David-L-R/Articles/blob/main/personal_development/learning/1_how_to_escape_tutorial_hell.md)
 
 ## Career
 
+### Interview Questions
 
+- [Tell Me About Yourself](https://github.com/David-L-R/Articles/blob/main/career/interview/tell_me_about_yourself.md)
+- [Why Do You Want To Work Here?](https://github.com/David-L-R/Articles/blob/main/career/interview/why_do_you_want_to_work_here.md)
 
 ## Technical Articles
 
