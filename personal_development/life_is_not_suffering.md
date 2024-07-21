@@ -1,3 +1,5 @@
+<img alt="the buddha" src="https://www.lionsroar.com/wp-content/uploads/2023/08/5-DP297456r4_61A-1-1-1.jpg" />
+
 🌹 Life is (Not) Suffering 
 
 The Buddha's first truth is that "Life is Suffering." But the word "Dukkah" (in Pāli) can be better translated into "Hardship," "Discomfort," or "Effort."
