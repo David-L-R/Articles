@@ -8,6 +8,7 @@ Read about career development, learning, mentoring, motivation, and software dev
 - [What Is Your Biggest Fear?](https://github.com/David-L-R/Articles/blob/main/personal_development/what_is_your_biggest_fear.md)
 - [Growth Mindset](https://github.com/David-L-R/Articles/blob/main/personal_development/growth_mindset.md)
 - [You Will Never Be "Ready"](https://github.com/David-L-R/Articles/blob/main/personal_development/you_will_never_be_ready.md)
+- [Life is (Not) Suffering](https://github.com/David-L-R/Articles/blob/main/personal_development/life_is_not_suffering.md)
 
 ### Learning
 
